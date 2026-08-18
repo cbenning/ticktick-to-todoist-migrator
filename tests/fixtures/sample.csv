@@ -1,0 +1,25 @@
+"Date: 2026-08-15+0000"
+"Version: 7.2"
+"Status:
+0 Normal
+-1 Abandoned
+2 Completed"
+"Folder Name","List Name","Title","Kind","Tags","Content","Is Check list","Start Date","Due Date","Reminder","Repeat","Priority","Status","Created Time","Completed Time","Order","Timezone","Is All Day","Is Floating","Column Name","Column Order","View Mode","taskId","parentId","projectKind"
+"","To-Read","Finish that novel on the nightstand","TEXT","","","N","","","","","0","0","2024-01-09T06:53:43+0000","","1","America/New_York","false","false",,,"list","1","","NOTE"
+"","To-Read","https://example.com/articles/a-good-read","NOTE","","","N","","","","","0","0","2025-03-25T03:29:07+0000","","2","America/New_York",,"false",,,"list","2","","NOTE"
+"","Buy","Buy groceries","TEXT","","","N","","","","","0","2","2024-12-09T22:06:49+0000","2026-02-13T15:05:51+0000","3","America/New_York","false","false",,,"list","3","","TASK"
+"","Buy","Buy birthday gift","TEXT","","","N","","","","","0","2","2025-09-18T03:31:47+0000","2026-02-13T15:05:53+0000","4","America/New_York","false","false",,,"list","4","","TASK"
+"","Buy","Buy new running shoes","TEXT","","","N","","","","","0","2","2025-09-18T03:33:15+0000","2025-10-15T03:35:09+0000","5","America/New_York","false","false",,,"list","5","","TASK"
+"","Chores","Take out the recycling","TEXT","","","N","","","","","0","0","2026-08-14T01:40:24+0000","","6","America/New_York","false","false",,,"list","6","","TASK"
+"","Chores","Call the dentist to book a cleaning","TEXT","","","N","","","","","0","0","2026-07-31T14:40:42+0000","","7","America/New_York","false","false",,,"list","7","","TASK"
+"","Chores","Renew car insurance","TEXT","","","N","","","","","0","0","2026-07-31T14:38:35+0000","","8","America/New_York","false","false",,,"list","8","","TASK"
+"","Chores","Water the plants","TEXT","","Remember the ones on the balcony too
+","N","","","","","0","0","2026-07-31T14:37:45+0000","","9","America/New_York","false","false",,,"list","9","","TASK"
+"","Chores","Clean out the garage","TEXT","","","N","","","","","0","0","2026-04-14T21:36:44+0000","","10","America/New_York","false","false",,,"list","10","","TASK"
+"","Chores","Return library books","TEXT","","","N","","","","","0","0","2026-01-16T15:05:55+0000","","11","America/New_York","false","false",,,"list","11","","TASK"
+"","Chores","Schedule oil change","TEXT","","","N","","","","","0","2","2025-11-14T07:40:19+0000","2026-04-06T18:27:35+0000","12","America/New_York","false","false",,,"list","12","","TASK"
+"","Chores","Pay the electricity bill","TEXT","","","N","","","","","0","2","2025-11-14T07:40:10+0000","2026-07-26T01:35:50+0000","13","America/New_York","false","false",,,"list","13","","TASK"
+"","Chores","Organize the hall closet","TEXT","","","N","","","","","0","2","2025-11-14T07:39:25+0000","2025-11-26T16:23:39+0000","14","America/New_York","false","false",,,"list","14","","TASK"
+"","Chores","Plan the weekend trip","TEXT","","","N","","","","","0","2","2025-03-27T04:22:30+0000","2025-11-14T07:39:31+0000","15","America/New_York","false","false",,,"list","15","","TASK"
+"","Chores","Update the resume","TEXT","","","N","","","","","0","2","2025-01-15T18:52:33+0000","2025-09-12T16:30:15+0000","16","America/New_York","false","false",,,"list","16","","TASK"
+"","Chores","Back up photos from phone","TEXT","","","N","","","","","0","2","2025-04-01T19:36:25+0000","2025-09-14T21:56:27+0000","17","America/New_York","false","false",,,"list","17","","TASK"

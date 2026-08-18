@@ -1,0 +1,13 @@
+"Date: 2026-08-15+0000"
+"Version: 7.2"
+"Status: 
+0 Normal
+-1 Abandoned 
+2 Completed"
+"Folder Name","List Name","Title","Kind","Tags","Content","Is Check list","Start Date","Due Date","Reminder","Repeat","Priority","Status","Created Time","Completed Time","Order","Timezone","Is All Day","Is Floating","Column Name","Column Order","View Mode","taskId","parentId","projectKind"
+"Work","Projects","Ship v2","TEXT","urgent,eng","Big launch","N","","2026-09-01T17:00:00+0000","","","5","0","2026-01-01T00:00:00+0000","","1","America/Vancouver","false","false",,,"list","100","","TASK"
+"Work","Projects","Write launch doc","TEXT","","","N","","","","","3","0","2026-01-01T00:00:01+0000","","2","America/Vancouver","false","false",,,"list","101","100","TASK"
+"Work","Projects","Notify legal","TEXT","","","N","","","","","0","2","2026-01-01T00:00:02+0000","2026-01-05T00:00:00+0000","3","America/Vancouver","false","false",,,"list","102","100","TASK"
+"Work","Recurring","Water plants","TEXT","","","N","","2026-08-01T09:00:00+0000","","RRULE:FREQ=WEEKLY;INTERVAL=2","0","0","2026-01-01T00:00:00+0000","","4","America/Vancouver","false","false",,,"list","103","","TASK"
+"Work","Recurring","Complicated schedule","TEXT","","","N","","2026-08-01T09:00:00+0000","","RRULE:FREQ=WEEKLY;BYDAY=MO,WE,FR","0","0","2026-01-01T00:00:00+0000","","5","America/Vancouver","false","false",,,"list","104","","TASK"
+"","Abandoned Test","Old idea","TEXT","","","N","","","","","0","-1","2026-01-01T00:00:00+0000","","6","America/Vancouver","false","false",,,"list","105","","TASK"

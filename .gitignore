@@ -1,0 +1,16 @@
+.worktrees/
+.claude/
+docs/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Never commit real exports or migration state
+*.csv
+!tests/fixtures/*.csv
+migration-state.json

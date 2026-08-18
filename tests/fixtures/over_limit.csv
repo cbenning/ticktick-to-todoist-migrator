@@ -1,0 +1,19 @@
+"Date: 2026-08-15+0000"
+"Version: 7.2"
+"Status: 
+0 Normal
+-1 Abandoned 
+2 Completed"
+"Folder Name","List Name","Title","Kind","Tags","Content","Is Check list","Start Date","Due Date","Reminder","Repeat","Priority","Status","Created Time","Completed Time","Order","Timezone","Is All Day","Is Floating","Column Name","Column Order","View Mode","taskId","parentId","projectKind"
+"","List01","Task 1","TEXT","","","N","","","","","0","0","2026-01-01T00:00:00+0000","","1","America/Vancouver","false","false","","","list","1","","TASK"
+"","List02","Task 2","TEXT","","","N","","","","","0","0","2026-01-01T00:00:00+0000","","2","America/Vancouver","false","false","","","list","2","","TASK"
+"","List03","Task 3","TEXT","","","N","","","","","0","0","2026-01-01T00:00:00+0000","","3","America/Vancouver","false","false","","","list","3","","TASK"
+"","List04","Task 4","TEXT","","","N","","","","","0","0","2026-01-01T00:00:00+0000","","4","America/Vancouver","false","false","","","list","4","","TASK"
+"","List05","Task 5","TEXT","","","N","","","","","0","0","2026-01-01T00:00:00+0000","","5","America/Vancouver","false","false","","","list","5","","TASK"
+"","List06","Task 6","TEXT","","","N","","","","","0","0","2026-01-01T00:00:00+0000","","6","America/Vancouver","false","false","","","list","6","","TASK"
+"","List07","Task 7","TEXT","","","N","","","","","0","0","2026-01-01T00:00:00+0000","","7","America/Vancouver","false","false","","","list","7","","TASK"
+"","List08","Task 8","TEXT","","","N","","","","","0","0","2026-01-01T00:00:00+0000","","8","America/Vancouver","false","false","","","list","8","","TASK"
+"","List09","Task 9","TEXT","","","N","","","","","0","0","2026-01-01T00:00:00+0000","","9","America/Vancouver","false","false","","","list","9","","TASK"
+"","List10","Task 10","TEXT","","","N","","","","","0","0","2026-01-01T00:00:00+0000","","10","America/Vancouver","false","false","","","list","10","","TASK"
+"","List11","Task 11","TEXT","","","N","","","","","0","0","2026-01-01T00:00:00+0000","","11","America/Vancouver","false","false","","","list","11","","TASK"
+"","List12","Task 12","TEXT","","","N","","","","","0","0","2026-01-01T00:00:00+0000","","12","America/Vancouver","false","false","","","list","12","","TASK"
